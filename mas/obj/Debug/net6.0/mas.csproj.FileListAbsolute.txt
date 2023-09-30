@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.AssemblyInfo.cs
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seminar4\mas\bin\Debug\net6.0\mas.exe
+C:\Users\User\Desktop\seminar4\mas\bin\Debug\net6.0\mas.deps.json
+C:\Users\User\Desktop\seminar4\mas\bin\Debug\net6.0\mas.runtimeconfig.json
+C:\Users\User\Desktop\seminar4\mas\bin\Debug\net6.0\mas.dll
+C:\Users\User\Desktop\seminar4\mas\bin\Debug\net6.0\mas.pdb
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.dll
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\refint\mas.dll
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.pdb
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\mas.genruntimeconfig.cache
+C:\Users\User\Desktop\seminar4\mas\obj\Debug\net6.0\ref\mas.dll
